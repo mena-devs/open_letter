@@ -14,4 +14,4 @@ Beirut has always been an open city, welcoming everyone, thriving on the diversi
 
 Signed,
 
-Bassem Dghaidy
+Bassem Dghaidy, @Link-
