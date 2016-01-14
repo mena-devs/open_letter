@@ -1,4 +1,6 @@
-#Open Letter to the JSConf Community
+#Open Letter to the Global JSConf Community
+
+January 15, 2016
 
 Following the incident that occured earlier this week that involved the  lead organizer of JSConf Beirut and members of the international JS community, we, members of the MENA-Devs group agreed on the need to express our disagreement and disapointment in the behavior of Mr. Tadros throughout the past period.
 
@@ -12,4 +14,4 @@ Beirut has always been an open city, welcoming everyone, thriving on the diversi
 
 Signed,
 
-Full Name
+Bassem Dghaidy
