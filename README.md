@@ -39,3 +39,5 @@ Layale Matta [@yalisme](https://github.com/yalisme)
 Amine Atallah [@amineatallah](https://github.com/amineatallah)
 
 Mohammad Skafi [@arithma](https://github.com/arithma)
+
+Chafic Najjar [@chaficnajjar](https://github.com/chaficnajjar)
