@@ -23,3 +23,5 @@ Abed Halawi, [@mulkave] (https://github.com/mulkave)
 Jad Joubran, [@jadjoubran](https://github.com/jadjoubran)
 
 Jad Salhani, [@jadsalhani](https://github.com/jsalhani)
+
+Constantine Nicolaou, [@cnicolaou](https://github.com/cnicolaou)
