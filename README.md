@@ -17,3 +17,5 @@ Signed,
 Bassem Dghaidy, [@Link-](https://github.com/Link-)
 
 Dani Arnaout, [@DaniArnaout](https://github.com/DaniArnaout)
+
+Abed Halawi, [@mulkave] (https://github.com/mulkave)
