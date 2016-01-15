@@ -15,3 +15,5 @@ As such, members of the MENA-Devs community felt compelled to declare that the p
 Signed,
 
 Bassem Dghaidy, [@Link-](https://github.com/Link-)
+
+Dani Arnaout, [@DaniArnaout](https://github.com/DaniArnaout)
