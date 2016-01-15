@@ -35,3 +35,5 @@ Constantine Nicolaou [@cnicolaou](https://github.com/cnicolaou)
 Joseph Saade [@jsaade](https://github.com/jsaade)
 
 Layale Matta [@yalisme](https://github.com/yalisme)
+
+Amine Atallah [@amineatallah](https://github.com/amineatallah)
