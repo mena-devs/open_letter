@@ -24,4 +24,8 @@ Jad Joubran, [@jadjoubran](https://github.com/jadjoubran)
 
 Jad Salhani, [@jadsalhani](https://github.com/jsalhani)
 
-Constantine Nicolaou, [@cnicolaou](https://github.com/cnicolaou)
+Mark Dagher [@markdagher](https://github.com/markdagher)
+
+Abdallah Chamas [@abdallahchamas](https://github.com/abdallahchamas)
+
+Ayman Farhat [@aymanfarhat](https://github.com/aymanfarhat)
