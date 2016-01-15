@@ -31,3 +31,5 @@ Abdallah Chamas [@abdallahchamas](https://github.com/abdallahchamas)
 Ayman Farhat [@aymanfarhat](https://github.com/aymanfarhat)
 
 Constantine Nicolaou [@cnicolaou](https://github.com/cnicolaou)
+
+Mohammad Skafi [@arithma](https://github.com/arithma)
