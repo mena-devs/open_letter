@@ -21,3 +21,5 @@ Dani Arnaout, [@DaniArnaout](https://github.com/DaniArnaout)
 Abed Halawi, [@mulkave] (https://github.com/mulkave)
 
 Jad Joubran, [@jadjoubran](https://github.com/jadjoubran)
+
+Jad Salhani, [@jadsalhani](https://github.com/jsalhani)
