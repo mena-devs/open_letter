@@ -24,20 +24,20 @@ Jad Joubran, [@jadjoubran](https://github.com/jadjoubran)
 
 Jad Salhani, [@jadsalhani](https://github.com/jsalhani)
 
-Mark Dagher [@markdagher](https://github.com/markdagher)
+Mark Dagher, [@markdagher](https://github.com/markdagher)
 
-Abdallah Chamas [@abdallahchamas](https://github.com/abdallahchamas)
+Abdallah Chamas, [@abdallahchamas](https://github.com/abdallahchamas)
 
-Ayman Farhat [@aymanfarhat](https://github.com/aymanfarhat)
+Ayman Farhat, [@aymanfarhat](https://github.com/aymanfarhat)
 
-Constantine Nicolaou [@cnicolaou](https://github.com/cnicolaou)
+Constantine Nicolaou, [@cnicolaou](https://github.com/cnicolaou)
 
-Joseph Saade [@jsaade](https://github.com/jsaade)
+Joseph Saade, [@jsaade](https://github.com/jsaade)
 
-Layale Matta [@yalisme](https://github.com/yalisme)
+Layale Matta, [@yalisme](https://github.com/yalisme)
 
-Amine Atallah [@amineatallah](https://github.com/amineatallah)
+Amine Atallah, [@amineatallah](https://github.com/amineatallah)
 
-Mohammad Skafi [@arithma](https://github.com/arithma)
+Mohammad Skafi, [@arithma](https://github.com/arithma)
 
-Chafic Najjar [@chaficnajjar](https://github.com/chaficnajjar)
+Chafic Najjar, [@chaficnajjar](https://github.com/chaficnajjar)
