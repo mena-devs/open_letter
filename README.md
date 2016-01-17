@@ -2,7 +2,7 @@
 
 January 15, 2016
 
-Following the incident that occurred earlier this week that involved the lead organizer of [JSConf Beirut](http://www.jsconfbeirut.com) and members of the international JS community, we, members of the [MENA-Devs](http://mena-devs.slack.com) group agreed on the need to publicly express our disagreement and disappointment in the behavior of Mr. Tadros throughout the past period.
+Following the incident that occurred earlier this week that involved the lead organizer of [JSConf Beirut](http://www.jsconfbeirut.com) and members of the international JS community, we, members of the [MENA-Devs](http://mena-devs.slack.com) group agreed on the need to publicly express our disagreement and disappointment in the behavior of the lead organizer throughout the past period.
 
 MENA-Devs is an active, invitation based, online Slack community composed of 117 software developers (and growing) operating, mainly, from Lebanon. We are the single active, decentralized body, focused on the growth and well being of the Software Development industry in Beirut/Lebanon, with members coming from different technical and academic backgrounds, regions, ages, and genders.
 
