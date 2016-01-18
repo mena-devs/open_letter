@@ -47,3 +47,5 @@ Samuel Demirdjian, [@enov](https://github.com/enov)
 Elie Chidiac, [@eliechidiac](https://github.com/eliechidiac)
 
 Mahmoud Zalt, [@Mahmoudz](https://github.com/Mahmoudz)
+
+Jad Bitar, [@jadb](https://github.com/jadb)
