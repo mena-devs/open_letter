@@ -43,3 +43,5 @@ Mohammad Skafi, [@arithma](https://github.com/arithma)
 Chafic Najjar, [@chaficnajjar](https://github.com/chaficnajjar)
 
 Samuel Demirdjian, [@enov](https://github.com/enov)
+
+Elie Chidiac, [@eliechidiac](https://github.com/eliechidiac)
