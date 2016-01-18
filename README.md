@@ -41,3 +41,5 @@ Amine Atallah, [@amineatallah](https://github.com/amineatallah)
 Mohammad Skafi, [@arithma](https://github.com/arithma)
 
 Chafic Najjar, [@chaficnajjar](https://github.com/chaficnajjar)
+
+Samuel Demirdjian, [@enov](https://github.com/enov)
